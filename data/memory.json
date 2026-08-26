@@ -1,0 +1,22 @@
+[
+    {
+        "failure_type": "jargon_free",
+        "reason": "...",
+        "improvement": "..."
+    },
+    {
+        "failure_type": "jargon_free",
+        "reason": "Terms like FAISS, vector search, embeddings, and semantic retrieval are mentioned but not defined.",
+        "improvement": "Add brief definitions for FAISS (a similarity search library), vector search (searching using numeric vectors), embeddings (numeric representations of text), and semantic retrieval (finding text based on meaning)."
+    },
+    {
+        "failure_type": "jargon_free",
+        "reason": "Demo test: technical terms were intentionally introduced without beginner-friendly explanations.",
+        "improvement": "Explain technical terms in simple English before using them."
+    },
+    {
+        "failure_type": "jargon_free",
+        "reason": "Demo test: technical terms were intentionally introduced without beginner-friendly explanations.",
+        "improvement": "Explain technical terms in simple English before using them."
+    }
+]

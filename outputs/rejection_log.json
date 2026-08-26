@@ -1,0 +1,57 @@
+[
+    {
+        "attempt": 1,
+        "status": "REJECTED",
+        "failed_checks": [
+            {
+                "check": "jargon_free",
+                "reason": "Terms like \"vector search\" and \"FAISS\" are mentioned without any explanation, which can confuse a beginner.",
+                "improvement": "Add brief definitions, e.g., \"vector search is a method that turns text into numbers so similar pieces can be found quickly\" and \"FAISS is a software library that makes vector search fast and efficient\"."
+            }
+        ]
+    },
+    {
+        "attempt": 1,
+        "status": "REJECTED",
+        "failed_checks": [
+            {
+                "check": "jargon_free",
+                "reason": "The term \"FAISS\" is introduced without any explanation, which may confuse a beginner with limited English vocabulary.",
+                "improvement": "Add a brief explanation such as: \"FAISS is a free software library that helps computers quickly find similar pieces of text, like a fast search engine for the retriever.\""
+            }
+        ]
+    },
+    {
+        "attempt": 1,
+        "status": "REJECTED",
+        "failed_checks": [
+            {
+                "check": "jargon_free",
+                "reason": "Terms like FAISS, vector search, embeddings, and semantic retrieval are mentioned but not defined.",
+                "improvement": "Add brief definitions for FAISS (a similarity search library), vector search (searching using numeric vectors), embeddings (numeric representations of text), and semantic retrieval (finding text based on meaning)."
+            }
+        ]
+    },
+    {
+        "attempt": 1,
+        "status": "REJECTED",
+        "failed_checks": [
+            {
+                "check": "jargon_free",
+                "reason": "Demo test: technical terms were intentionally introduced without beginner-friendly explanations.",
+                "improvement": "Explain technical terms in simple English before using them."
+            }
+        ]
+    },
+    {
+        "attempt": 1,
+        "status": "REJECTED",
+        "failed_checks": [
+            {
+                "check": "jargon_free",
+                "reason": "Demo test: technical terms were intentionally introduced without beginner-friendly explanations.",
+                "improvement": "Explain technical terms in simple English before using them."
+            }
+        ]
+    }
+]

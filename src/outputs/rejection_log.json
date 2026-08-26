@@ -1,0 +1,13 @@
+[
+    {
+        "attempt": 1,
+        "status": "REJECTED",
+        "failed_checks": [
+            {
+                "check": "jargon_free",
+                "reason": "Terms like \"vector search\" and \"FAISS\" are introduced in the \"Next steps\" section without any explanation, which can confuse a beginner.",
+                "improvement": "Add brief, plain‑English definitions for \"vector search\" (e.g., a way to find similar sentences quickly) and for \"FAISS\" (an open‑source library that helps with fast searching)."
+            }
+        ]
+    }
+]
