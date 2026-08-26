@@ -167,7 +167,7 @@ if __name__ == "__main__":
 
     final_lesson = run_agent(
         topic="Introduction to RAG",
-        demo_mode=False
+        demo_mode=True
     )
 
     print("\n\nFINAL LESSON:")
