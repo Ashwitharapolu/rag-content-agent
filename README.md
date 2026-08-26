@@ -66,7 +66,7 @@ If any check fails, the system records the failure, saves the lesson learned to 
 
 
 ----
-## Project Structure
+## Project structure
 
 ```text
 rag-content-agent/
