@@ -64,6 +64,8 @@ If any check fails, the system records the failure, saves the lesson learned to 
                                 v
                               Retry
 
+
+----
 ## Project Structure
 
 ```text
@@ -88,7 +90,7 @@ rag-content-agent/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+----
 
 ## Key Components
 
